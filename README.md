@@ -35,6 +35,18 @@ What I actually spend the GPUs on: making AI agents **do real work without super
 - [**Photoslop**](https://github.com/CryptoJones/Photoslop) — a memory-frugal layered raster editor in Qt. [**OSAPHLA**](https://github.com/CryptoJones/OSAPHLA) — an open, accessible, pan-Hispanic Spanish academy.
 - [**cyberdeck-theme**](https://github.com/CryptoJones/cyberdeck-theme) — the dark neon terminal theme this page, my blog, and every report I ship are drawn in. Black backgrounds, never white.
 
+## `$ ls bookshelf/`
+
+The shelf behind the GPUs — what I'd hand someone starting out in AI, in the order I'd hand them over.
+
+| | |
+|---|---|
+| [**Artificial Intelligence: A Modern Approach**](https://aima.cs.berkeley.edu/) — Stuart Russell & Peter Norvig | The foundation. Search, logic, probability, learning — the whole field in one spine, before any of it was a transformer. |
+| [**You Look Like a Thing and I Love You**](https://www.janelleshane.com/book-you-look-like-a-thing) — Janelle Shane | How machine learning actually fails, told through giraffes and knock-knock jokes. The best intuition-builder there is, and the funniest. |
+| [**Super Study Guide: Transformers & Large Language Models**](https://superstudy.guide/) — Afshine Amidi & Shervine Amidi | The attention-to-alignment pipeline, drawn out. The companion to Stanford's CME 295, and the book I keep open while working. |
+| [**Designing Machine Learning Systems**](https://www.oreilly.com/library/view/designing-machine-learning-systems/9781098107956/) — Chip Huyen | Everything around the model: data, deployment, monitoring, drift. The reason production ML is engineering, not alchemy. |
+| [**AI Engineering**](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen | Building on foundation models: evaluation, RAG, agents, fine-tuning, inference cost. The textbook for what I do all day. |
+
 ## `$ cat stack`
 
 ![Python](https://img.shields.io/badge/Python-07090f?style=flat-square&logo=python&logoColor=27d4ff)
