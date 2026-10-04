@@ -37,15 +37,18 @@ What I actually spend the GPUs on: making AI agents **do real work without super
 
 ## `$ ls bookshelf/`
 
-The shelf behind the GPUs — what I'd hand someone starting out in AI, in the order I'd hand them over.
+The shelf behind the GPUs — what I'd hand someone starting out in AI, in the order I'd hand them over. The funny one goes first on purpose.
 
 | | |
 |---|---|
-| [**Artificial Intelligence: A Modern Approach**](https://aima.cs.berkeley.edu/) — Stuart Russell & Peter Norvig | The foundation. Search, logic, probability, learning — the whole field in one spine, before any of it was a transformer. |
 | [**You Look Like a Thing and I Love You**](https://www.janelleshane.com/book-you-look-like-a-thing) — Janelle Shane | How machine learning actually fails, told through giraffes and knock-knock jokes. The best intuition-builder there is, and the funniest. |
-| [**Super Study Guide: Transformers & Large Language Models**](https://superstudy.guide/) — Afshine Amidi & Shervine Amidi | The attention-to-alignment pipeline, drawn out. The companion to Stanford's CME 295, and the book I keep open while working. |
+| [**Artificial Intelligence: A Modern Approach**](https://aima.cs.berkeley.edu/) — Stuart Russell & Peter Norvig | The foundation. Search, logic, probability, learning — the whole field in one spine, before any of it was a transformer. |
+| [**Super Study Guide: Transformers & Large Language Models**](https://superstudy.guide/transformers-large-language-models/) — Afshine Amidi & Shervine Amidi | The attention-to-alignment pipeline, drawn out. The companion to Stanford's CME 295, and the book I keep open while working. (The Amidis wrote two Super Study Guides — this is the LLM one, not *Algorithms & Data Structures*.) |
 | [**Designing Machine Learning Systems**](https://www.oreilly.com/library/view/designing-machine-learning-systems/9781098107956/) — Chip Huyen | Everything around the model: data, deployment, monitoring, drift. The reason production ML is engineering, not alchemy. |
 | [**AI Engineering**](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen | Building on foundation models: evaluation, RAG, agents, fine-tuning, inference cost. The textbook for what I do all day. |
+| [**Superintelligence: Paths, Dangers, Strategies**](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) — Nick Bostrom | The control problem, laid out carefully a decade before it was fashionable. Read it to understand why "governance" is in my research line and not an afterthought. |
+| [**Rationality: From AI to Zombies**](https://www.readthesequences.com/) — Eliezer Yudkowsky | The Sequences, bound. Less a book about AI than about how to notice you're wrong and change your mind — the skill the rest of this shelf assumes you have. Free to read. |
+| [**If Anyone Builds It, Everyone Dies**](https://ifanyonebuildsit.com/) — Eliezer Yudkowsky & Nate Soares | The short, blunt version of the argument, for people who won't read the two books above it. Disagree with it if you can; you should at least be able to say where. |
 
 ## `$ cat stack`
 
