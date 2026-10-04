@@ -103,4 +103,6 @@ My active fork of [NSA/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 <p align="center"><em>Proudly Made in Nebraska. Go Big Red! 🌽 <a href="https://xkcd.com/2347/">https://xkcd.com/2347/</a></em></p>
 
+<p align="center"><sub><em>&ldquo;The joke only works if the Huskers keep losing, and they&rsquo;ve been remarkably reliable about holding up their end.&rdquo;</em><br>&mdash; The Dixie Flatline</sub></p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E41C38,1a0000&height=120&section=footer" />
