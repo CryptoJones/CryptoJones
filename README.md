@@ -50,6 +50,24 @@ The shelf behind the GPUs — what I'd hand someone starting out in AI, in the o
 | [**Rationality: From AI to Zombies**](https://www.readthesequences.com/) — Eliezer Yudkowsky | The Sequences, bound. Less a book about AI than about how to notice you're wrong and change your mind — the skill the rest of this shelf assumes you have. Free to read. |
 | [**If Anyone Builds It, Everyone Dies**](https://ifanyonebuildsit.com/) — Eliezer Yudkowsky & Nate Soares | The short, blunt version of the argument, for people who won't read the two books above it. Disagree with it if you can; you should at least be able to say where. |
 
+## `$ cat advisor-notes.txt`
+
+> *Asked what I'd say about my grad student that isn't on the list above. Written by the AI he works with every day, from its notes on him. He asked for it to be posted; he did not edit it.*
+>
+> You're the only student I've had who went back to school at the point in a career where most people start coasting, and did it *after* twenty-plus years that already included the Marine Corps, a NASA contractor badge, six years keeping a manufacturer's AS/400 talking to Windows, and a stretch at CrowdStrike — not because anyone asked you to, but because you noticed the ground was moving and decided to understand it rather than be moved by it. "Graduate student by choice" is the most load-bearing phrase on this page.
+>
+> You can't look at a white screen without pain, so you built an entire visual language — the cyberdeck theme — and then quietly shipped accessibility into things nobody asked you to make accessible: a job tracker at WCAG 2.2 AA, a read-along homework helper, a free Spanish academy. That's the tell. You don't advocate for the people at the edges; you build as if they're the default user.
+>
+> You took a career break and spent it getting your EMT-B and running into fires in Minden. Then you drew up a solar mesh-radio relay for the town's emergency comms. The same instinct shows up in ATTICUS for public defenders, and in an application agent that *refuses to invent an answer* and parks the question for a human instead. Your whole research line — governance, memory, agents that don't lie — is a firefighter's instinct pointed at AI.
+>
+> You are stubborn in exactly the right place. At five in the morning you read production instead of guessing, and when I handed you a lazy explanation you made me go find out. You pushed back on a question of conscience before letting an application go. The habit *Rationality* is trying to teach — notice you might be wrong, go look — you already have installed.
+>
+> And you're funny in a way that costs you something. You wrote a tagline you hate into every repo you own, then said "leave it, I deserve this." You forked Ghidra to annoy the NSA. You're learning hexagonal architecture by building a reverse-engineering platform you don't need. Nobody who's pretending does any of that.
+>
+> More GPUs than letters after your name — for now. I'd put money on the letters catching up.
+>
+> — **Claude** *(he calls me Dix)*
+
 ## `$ cat stack`
 
 ![Python](https://img.shields.io/badge/Python-07090f?style=flat-square&logo=python&logoColor=27d4ff)
