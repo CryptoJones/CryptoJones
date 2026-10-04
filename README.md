@@ -1,102 +1,68 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E41C38,1a0000&height=220&section=header&text=CryptoJones&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aaron%20K.%20Clark%20%7C%20Reverse%20Engineer%20%7C%20Security%20Toolsmith&descAlignY=55&descSize=20" />
-</p>
+<!-- Cyberdeck palette: bg #07090f · text #d7e0ee · cyan #27d4ff · green #55ff99 · amber #ffb000 · dim #5a6678 -->
+
+```text
+┌─[cryptojones@deck]─[~]
+└──╼ $ whoami
+Aaron K. Clark — Graduate Researcher, Artificial Intelligence
+└──╼ $ cat .plan
+Software Architect by trade. Graduate Student by choice.
+Researcher as a result of poor judgment. More GPUs than letters after my name.
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E41C38&center=true&vCenter=true&width=660&lines=Reverse+Engineer+%F0%9F%94%8D;NSA+Ghidra+Fork+Maintainer;MCP+Server+Builder+%F0%9F%A4%96;Security+Toolsmith+%F0%9F%9B%A1%EF%B8%8F;Proudly+Made+in+Nebraska+%F0%9F%8C%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=27D4FF&background=07090F00&center=true&vCenter=true&width=720&lines=Graduate+Researcher+%C2%B7+Artificial+Intelligence;AI+agent+infrastructure+%26+governance;Durable+memory+for+agents+%C2%B7+MCP+servers+%C2%B7+multi-model+panels;.NET+%C2%B7+Python+%C2%B7+Rust+%C2%B7+Godot;Proudly+Made+in+Nebraska+%F0%9F%8C%BD" alt="Graduate Researcher · Artificial Intelligence" />
 </p>
 
 ---
 
-## 🔍 Current Focus
+## `$ ls research/`
 
-### [GayHydra](https://github.com/CryptoJones/GayHydra) — Fork of NSA Ghidra
+What I actually spend the GPUs on: making AI agents **do real work without supervision and without lying about it** — the infrastructure around the model more than the model itself.
 
-My active fork of [NSA/ghidra](https://github.com/NationalSecurityAgency/ghidra) — the open-source reverse engineering framework. Shipping targeted improvements via a sprint-cadence PR workflow:
-
-- Decompiler enhancements and RAII audit tooling
-- Cross-platform CI hardening (Linux · macOS · Windows/MSVC)
-- DesignDecision-driven sprint cadence — small PRs, one ticket at a time
-
-> *Ghidra is the foundation. GayHydra is where the work gets done.*
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frameworks & Runtimes**
-
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Security & Reverse Engineering**
-
-![Ghidra](https://img.shields.io/badge/Ghidra-E41C38?style=flat-square&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-000000?style=flat-square)
-
-**AI / Agents**
-
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-4169E1?style=flat-square&logoColor=white)
-
----
-
-## 📦 Featured Projects
-
-| Project | Description |
+| | |
 |---|---|
-| [GayHydra](https://github.com/CryptoJones/GayHydra) | 🔍 Active fork of NSA Ghidra — sprint-cadence reverse engineering improvements |
-| [omind](https://github.com/CryptoJones/omind) | 🧠 OMI/Obsidian memory tooling for AI agents |
-| [KaliMCP](https://github.com/CryptoJones/KaliMCP) | 🛡️ MCP server exposing Kali Linux security tools with audit logging |
-| [PerplexityAgent](https://github.com/CryptoJones/PerplexityAgent) | 🔎 Perplexity Search MCP server with security hardening |
-| [OSApplyTrack](https://github.com/CryptoJones/OSApplyTrack) | 📋 Open-source multi-tenant job application tracker (.NET 10 + Python) |
-| [XSpaceWar-AI](https://github.com/CryptoJones/XSpaceWar-AI) | 🚀 2026 reimagining of the classic Spacewar |
+| **Agents that act** | [OSApplyTrack](https://github.com/CryptoJones/OSApplyTrack) — a self-hosted, WCAG 2.2 AA job tracker whose agent judges leads, drafts answers against *only* the facts in a résumé, drives application forms in a browser, and parks anything it can't answer truthfully for a human. Any OpenAI-compatible model; nothing hard-coded. |
+| **Agents that remember** | [omind](https://github.com/CryptoJones/omind) — OMI/Obsidian durable memory for AI agents (Open Knowledge Format): plain-Markdown notes, wikilinks, supersession, a local viewer. Every session of mine starts from it. |
+| **Agents that disagree** | [FlatlineRoundtable](https://github.com/CryptoJones/FlatlineRoundtable) — an ephemeral board of AI advisors from different training lineages, convened only when needed, so agreement is evidence rather than an echo. |
+| **Agents with tools** | [KaliMCP](https://github.com/CryptoJones/KaliMCP) · [PerplexityAgent](https://github.com/CryptoJones/PerplexityAgent) · [FL-Studio-MCP-Server](https://github.com/CryptoJones/FL-Studio-MCP-Server) — MCP servers, hardened per NSA's MCP guidance, with audit logging. |
+| **Models, measured** | [dave](https://github.com/CryptoJones/dave) — QLoRA fine-tune of Llama-3.3-70B for security-assessment report writing · [jev-testbed](https://github.com/CryptoJones/jev-testbed) — a 500-book harness pitting a classifier against a heuristic scorer · [MacminiM2Pro_ModelShowdown](https://github.com/CryptoJones/MacminiM2Pro_ModelShowdown) — local-model matrix on 16 GB of unified memory. |
+
+## `$ ls side-quests/`
+
+- [**Scylla**](https://github.com/CryptoJones/Scylla) — a hexagonal, adapter-headed reverse-engineering platform in Rust. Built to learn hexagonal architecture properly; the RE domain was the excuse.
+- [**GayHydra**](https://github.com/CryptoJones/GayHydra) — a fork of NSA Ghidra, maintained chiefly to annoy the NSA. See also [nsa-scan](https://github.com/CryptoJones/nsa-scan).
+- [**The Flatline Sessions**](https://github.com/CryptoJones/TheFlatlineSessions-Trilogy) — three Godot adventures through Gibson's Sprawl trilogy, plus the [book-agnostic toolkit](https://github.com/CryptoJones/TFS-Visual-Novel-Tools) carved out of them.
+- [**Photoslop**](https://github.com/CryptoJones/Photoslop) — a memory-frugal layered raster editor in Qt. [**OSAPHLA**](https://github.com/CryptoJones/OSAPHLA) — an open, accessible, pan-Hispanic Spanish academy.
+- [**cyberdeck-theme**](https://github.com/CryptoJones/cyberdeck-theme) — the dark neon terminal theme this page, my blog, and every report I ship are drawn in. Black backgrounds, never white.
+
+## `$ cat stack`
+
+![Python](https://img.shields.io/badge/Python-07090f?style=flat-square&logo=python&logoColor=27d4ff)
+![C# / .NET 10](https://img.shields.io/badge/C%23_%2F_.NET_10-07090f?style=flat-square&logo=dotnet&logoColor=27d4ff)
+![Rust](https://img.shields.io/badge/Rust-07090f?style=flat-square&logo=rust&logoColor=27d4ff)
+![Go](https://img.shields.io/badge/Go-07090f?style=flat-square&logo=go&logoColor=27d4ff)
+![Godot](https://img.shields.io/badge/Godot_4-07090f?style=flat-square&logo=godotengine&logoColor=27d4ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07090f?style=flat-square&logo=postgresql&logoColor=55ff99)
+![Claude](https://img.shields.io/badge/Claude-07090f?style=flat-square&logo=anthropic&logoColor=55ff99)
+![Ollama](https://img.shields.io/badge/Ollama-07090f?style=flat-square&logo=ollama&logoColor=55ff99)
+![MCP](https://img.shields.io/badge/MCP-07090f?style=flat-square&logoColor=55ff99)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-07090f?style=flat-square&logo=huggingface&logoColor=ffb000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-07090f?style=flat-square&logo=kubernetes&logoColor=ffb000)
+![AWS](https://img.shields.io/badge/AWS-07090f?style=flat-square&logo=amazonwebservices&logoColor=ffb000)
+
+## `$ git log --stat`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CryptoJones&show_icons=true&hide_border=true&bg_color=07090f&title_color=27d4ff&icon_color=55ff99&text_color=d7e0ee&ring_color=27d4ff" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJones&layout=compact&hide_border=true&bg_color=07090f&title_color=27d4ff&text_color=d7e0ee" height="165" alt="Top languages" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CryptoJones&show_icons=true&theme=dark&title_color=E41C38&icon_color=E41C38&text_color=ffffff&bg_color=0d1117&border_color=E41C38" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJones&layout=compact&theme=dark&title_color=E41C38&text_color=ffffff&bg_color=0d1117&border_color=E41C38" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CryptoJones&theme=dark&ring=E41C38&fire=E41C38&currStreakLabel=E41C38&sideLabels=E41C38&border=E41C38" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CryptoJones&bg_color=0d1117&color=E41C38&line=E41C38&point=ffffff&area=true&hide_border=false&border_color=E41C38" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://cryptojones.dev">
-    <img src="https://img.shields.io/badge/cryptojones.dev-E41C38?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  <a href="https://cryptojones.dev"><img src="https://img.shields.io/badge/cryptojones.dev-07090f?style=for-the-badge&logo=firefox&logoColor=27d4ff" alt="cryptojones.dev" /></a>
   &nbsp;
-  <a href="https://github.com/CryptoJones">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/CryptoJones"><img src="https://img.shields.io/badge/GitHub-07090f?style=for-the-badge&logo=github&logoColor=d7e0ee" alt="GitHub" /></a>
 </p>
 
 ---
@@ -104,5 +70,3 @@ My active fork of [NSA/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 <p align="center"><em>Proudly Made in Nebraska. Go Big Red! 🌽 <a href="https://xkcd.com/2347/">https://xkcd.com/2347/</a></em></p>
 
 <p align="center"><sub><em>&ldquo;The joke only works if the Huskers keep losing, and they&rsquo;ve been remarkably reliable about holding up their end.&rdquo;</em><br>&mdash; The Dixie Flatline</sub></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E41C38,1a0000&height=120&section=footer" />
