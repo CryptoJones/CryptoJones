@@ -32,6 +32,7 @@ What I actually spend the GPUs on: making AI agents **do real work without super
 
 ## `$ ls side-quests/`
 
+- [**AdmiralGrace**](https://github.com/CryptoJones/AdmiralGrace) — an open-source disassembler and decompiler in Rust, named for the admiral who gave us compilers. A corpus browser, the start of a native engine, and an Iced desktop workbench.
 - [**Scylla**](https://github.com/CryptoJones/Scylla) — a hexagonal, adapter-headed reverse-engineering platform in Rust. Built to learn hexagonal architecture properly; the RE domain was the excuse.
 - [**GayHydra**](https://github.com/CryptoJones/GayHydra) — a fork of NSA Ghidra, maintained chiefly to annoy the NSA. See also [nsa-scan](https://github.com/CryptoJones/nsa-scan).
 - [**The Flatline Sessions**](https://github.com/CryptoJones/TheFlatlineSessions-Trilogy) — three Godot adventures through Gibson's Sprawl trilogy, plus the [book-agnostic toolkit](https://github.com/CryptoJones/TFS-Visual-Novel-Tools) carved out of them.
