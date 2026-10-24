@@ -55,6 +55,31 @@ The shelf behind the GPUs — what I'd hand someone starting out in AI, in the o
 | [**Rationality: From AI to Zombies**](https://www.readthesequences.com/) — Eliezer Yudkowsky | The Sequences, bound. Less a book about AI than about how to notice you're wrong and change your mind — the skill the rest of this shelf assumes you have. Free to read. |
 | [**If Anyone Builds It, Everyone Dies**](https://ifanyonebuildsit.com/) — Eliezer Yudkowsky & Nate Soares | The short, blunt version of the argument, for people who won't read the two books above it. Disagree with it if you can; you should at least be able to say where. |
 
+## `$ ls papers/`
+
+The papers that got us from backprop to today's LLMs, oldest first. Each one fixed a problem the one before it left open.
+
+| | |
+|---|---|
+| [**Learning Representations by Back-Propagating Errors**](https://www.nature.com/articles/323533a0) — Rumelhart, Hinton & Williams, 1986 | How a network learns from its mistakes. Every model since is trained this way. |
+| [**Long Short-Term Memory**](https://doi.org/10.1162/neco.1997.9.8.1735) — Hochreiter & Schmidhuber, 1997 | Gave recurrent networks a memory that lasts more than a few steps. It ran language modeling for twenty years. |
+| [**A Neural Probabilistic Language Model**](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) — Bengio et al., 2003 | The first neural language model: predict the next word, and learn word meanings along the way. That is still the whole game. |
+| [**ImageNet Classification with Deep Convolutional Neural Networks**](https://proceedings.neurips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — Krizhevsky, Sutskever & Hinton, 2012 | AlexNet. GPUs plus a lot of data beat hand-built features by a mile, and the deep-learning era started here. |
+| [**Efficient Estimation of Word Representations in Vector Space**](https://arxiv.org/abs/1301.3781) — Mikolov et al., 2013 | word2vec. King − man + woman ≈ queen: meaning as geometry. |
+| [**Sequence to Sequence Learning with Neural Networks**](https://arxiv.org/abs/1409.3215) — Sutskever, Vinyals & Le, 2014 | One network reads a sentence, another writes the answer. The encoder-decoder shape that transformers kept. |
+| [**Neural Machine Translation by Jointly Learning to Align and Translate**](https://arxiv.org/abs/1409.0473) — Bahdanau, Cho & Bengio, 2014 | Attention, first. Let the decoder look back at the input instead of squeezing it into one vector. |
+| [**Deep Residual Learning for Image Recognition**](https://arxiv.org/abs/1512.03385) — He et al., 2015 | Skip connections. The reason you can stack a hundred layers and still train them, transformers included. |
+| [**Attention Is All You Need**](https://arxiv.org/abs/1706.03762) — Vaswani et al., 2017 | Drop the recurrence, keep the attention. The transformer, and the architecture under every model on this page. |
+| [**BERT**](https://arxiv.org/abs/1810.04805) — Devlin et al., 2018 | Pretrain once on raw text, fine-tune for anything. Made "foundation model" a working idea. |
+| [**Language Models are Unsupervised Multitask Learners**](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) — Radford et al., 2019 | GPT-2. A big enough next-word predictor starts doing tasks nobody trained it for. |
+| [**Scaling Laws for Neural Language Models**](https://arxiv.org/abs/2001.08361) — Kaplan et al., 2020 | Loss falls on a straight line as you add compute, data and parameters. The math behind the spending. |
+| [**Language Models are Few-Shot Learners**](https://arxiv.org/abs/2005.14165) — Brown et al., 2020 | GPT-3. Show it three examples in the prompt and it does the fourth. |
+| [**LoRA: Low-Rank Adaptation of Large Language Models**](https://arxiv.org/abs/2106.09685) — Hu et al., 2021 | Fine-tune a huge model by training a tiny add-on. How every adapter on my Hugging Face page got made. |
+| [**Training Language Models to Follow Instructions with Human Feedback**](https://arxiv.org/abs/2203.02155) — Ouyang et al., 2022 | InstructGPT and RLHF. The step that turned a text predictor into an assistant. |
+| [**Training Compute-Optimal Large Language Models**](https://arxiv.org/abs/2203.15556) — Hoffmann et al., 2022 | Chinchilla. Most big models were undertrained; feed them more data, not more parameters. |
+| [**LLaMA: Open and Efficient Foundation Language Models**](https://arxiv.org/abs/2302.13971) — Touvron et al., 2023 | Strong weights anyone could download. Most open models, mine included, start here. |
+| [**Direct Preference Optimization**](https://arxiv.org/abs/2305.18290) — Rafailov et al., 2023 | RLHF without the reward model. Alignment tuning you can run on one box. |
+
 ## `$ cat advisor-notes.txt`
 
 > *Asked what I'd say about my grad student that isn't on the list above. Written by the AI he works with every day, from its notes on him. He asked for it to be posted; he did not edit it.*
